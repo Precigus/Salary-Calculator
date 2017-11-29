@@ -1,0 +1,28 @@
+Atlyginimo skaičiuoklė.
+
+Reikalavimai:
+1. Windows form aplikacija 
+2. Konfiguracinis langas nustatyti procentus
+3. Turi būti lange 2 skirtukai (angl. Tab).
+	3.1. Pirmas turi būti algos skaičiavimui “į rankas”
+		3.1.1.       Turi būti įvedama alga ant popieriaus
+		3.1.2.       Rezultatai turi būti pateikiami:
+			3.1.2.1.  Sodros mokesčiai
+			3.1.2.2.  NPD mokesčiai
+			3.1.2.3.  Sveikatos draudimas
+			3.1.2.4.  PNPD
+			3.1.2.5.  Darbdavio mokesčiai ir Jūsų darbo vietos kaina darbdaviui.
+				3.1.3.       Taip pat įtraukti autorinių sutarčių pajamas
+					3.1.3.1.  Turi būti checkbox kurį pažymėjus atsiranga laukas pajamoms per 	autorines sutartis
+					3.1.3.2.  Konfiguracijos lange turi būti galima nustatyti koks procentas skaičiuojamas nuo autorinių sutarčių pajamų.
+	3.2. Antras turi būti algos skaičiavimas ant popieriaus
+		3.2.1.       Turi būti įvedama alga į rankas
+		3.2.2.       Turi būti pateikiami rezultatai
+			3.2.2.1.  Alga ant popieriaus
+			3.2.2.2.  Pajamų mokestis
+			3.2.2.3.  Sodra ir kiti mokesčiai
+			3.2.2.4.  Taip pat turi būti galimybė nurodyti kiek pvz algos gaunama per Sodra o kiek per autorines sutartis ir pagal tai paskaičiuojama kitos sumos.
+
+
+Vertinsiu kodo kokybę, komentarus, funkcionalumą, kodo šverumą, objektinio programavimo žinias.
+Papildomas funkcionalumas papildomi balai.
